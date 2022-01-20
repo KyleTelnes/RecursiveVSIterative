@@ -1,7 +1,8 @@
 ## About
 This project was created for a school assignment, to compare the speed of an Iterative implementation of a power 
 function against a Recursive implementation. The results from my computer are in a CSV file in the recursiveVSiterative
-directory called recursiveVSiterativeData.csv
+directory called recursiveVSiterativeData.csv -- This is not to be confused with Data.csv which will be created by running
+the program.
 
 ## How to run the program
 
