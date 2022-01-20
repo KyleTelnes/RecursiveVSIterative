@@ -44,7 +44,7 @@ public class recursiveVSiterative {
     public static void main(String[] args) throws IOException {
 
         //set up writing to a CSV file
-        File outputFile = new File("recursiveVSiterative.csv");
+        File outputFile = new File("Data.csv");
 
         FileWriter fw = new FileWriter(outputFile);
 
